@@ -5,15 +5,14 @@
 ## 📋 Table of Contents
 - ️🏷️ [Introduction](Introduction)
 - ✨ [Features](Features)
-- 🗂️ [Project structure](Project structure)
+- 🗂️ [Project structure](Projectstructure)
 - ⚙️ [Requirements](Requirements)
 - 💾 [Installation](Installation)
 - ▶️ [Usage](Usage)
-- 🧪 [Running tests](Running tests)
+- 🧪 [Running tests](Runningtests)
 - 🫱🏻‍🫲🏼‍ [Contributing](Contributing)
 - 📜 [License](License)
 - [👨🏻‍💻 Author / 🙏🏻 Acknowledgments / 📩 Contact](Author/Acknowledgments/Contact)
-- 
 
 ---
 
