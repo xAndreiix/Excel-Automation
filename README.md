@@ -20,7 +20,6 @@
 ## Introduction
 Automated Excel processing script written in Python.  
 This project demonstrates how to read, process, and manipulate Excel files using Python libraries such as `openpyxl`.
-
 <!-- ## Badges -->
 <!-- ## Live Demo -->
 <!-- ## Screenshots -->
