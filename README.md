@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Table of Contents
-- 🏷️ [Introduction](#🏷️-introduction)
+- 🏷️ [Introduction](#introduction)
 - ✨ [Features](#features)
 - 🗂️ [Project structure](#project-structure)
 - ⚙️ [Requirements](#requirements)
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 Place your Excel files in the project directory (e.g. transactions.xlsx) and run:
 ```bash 
 python app.py
