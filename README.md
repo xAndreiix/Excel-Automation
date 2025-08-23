@@ -122,7 +122,7 @@ Andrei Iliescu
 **Acknowledgments:**  
 - Inspired by Mosh Hamedani's tutorial on YouTube.
 
-[![Python Full Course for Beginners](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)
 - All thanks to him for the training and examples!
 
 **Contact:**  
