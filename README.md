@@ -3,16 +3,16 @@
 ---
 
 ## 📋 Table of Contents
-- ️🏷️ [Introduction](Introduction)
-- ✨ [Features](Features)
-- 🗂️ [Project structure](Projectstructure)
-- ⚙️ [Requirements](Requirements)
-- 💾 [Installation](Installation)
-- ▶️ [Usage](Usage)
+- 🏷️ [Introduction](#introduction)
+- ✨ [Features](#features)
+- 🗂️ [Project structure](#project-structure)
+- ⚙️ [Requirements](#requirements)
+- 💾 [Installation](#installation)
+- ▶️ [Usage](#usage)
 - 🧪 [Running tests](#running-tests)
-- 🫱🏻‍🫲🏼‍ [Contributing](Contributing)
-- 📜 [License](License)
-- [👨🏻‍💻 Author / 🙏🏻 Acknowledgments / 📩 Contact](Author/Acknowledgments/Contact)
+- 🫱🏻‍🫲🏼 [Contributing](#contributing)
+- 📜 [License](#license)
+- 👨🏻‍💻 / 🙏🏻 / 📩 [Author / Acknowledgments / Contact](#author--acknowledgments--contact)
 
 ---
 
