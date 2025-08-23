@@ -5,6 +5,7 @@
 ## 📋 Table of Contents
 - 🏷️ [Introduction](#introduction)
 - ✨ [Features](#features)
+- 🛠️ [Technologies](#technologies)
 - 🗂️ [Project structure](#project-structure)
 - ⚙️ [Requirements](#requirements)
 - 💾 [Installation](#installation)
@@ -31,7 +32,14 @@ This project demonstrates how to read, process, and manipulate Excel files using
 - Read and process transaction data
 - Automate updates to Excel files
 - Extendable for reporting or data transformation
-<!-- ## Technologies -->
+
+---
+
+## Technologies
+- Python
+- openpyxl
+- PyTest
+
 ---
 
 ## Project structure
