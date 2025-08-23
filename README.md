@@ -12,7 +12,7 @@
 - 🧪 [Running tests](#running-tests)
 - 🫱🏻‍🫲🏼 [Contributing](#contributing)
 - 📜 [License](#license)
-- 👨🏻‍💻 / 🙏🏻 / 📩 [Author / Acknowledgments / Contact](#author--acknowledgments--contact)
+- [👨🏻‍💻 Author / 🙏🏻 Acknowledgments / 📩 Contact](#author--acknowledgments--contact)
 
 ---
 
