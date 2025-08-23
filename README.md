@@ -31,7 +31,7 @@ This project demonstrates how to read, process, and manipulate Excel files using
 - Read and process transaction data
 - Automate updates to Excel files
 - Extendable for reporting or data transformation
-
+<!-- ## Technologies -->
 ---
 
 ## Project structure
