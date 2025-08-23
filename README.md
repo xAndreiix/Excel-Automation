@@ -89,7 +89,7 @@ The script automatically categorizes transactions and can be extended to add mor
 
 ---
 
-## Running tests
+## Running tests 🧪
 ```bash
 pytest
 ```
