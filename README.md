@@ -16,17 +16,17 @@
 
 ---
 
-## 🏷️ Introduction
+## Introduction
 Automated Excel processing script written in Python.  
 This project demonstrates how to read, process, and manipulate Excel files using Python libraries such as `openpyxl`.
 
-<!-- ## 🛡️ Badges -->
-<!-- ## 💻️ Live Demo -->
-<!-- ## 📷️ Screenshots -->
+<!-- ## Badges -->
+<!-- ## Live Demo -->
+<!-- ## Screenshots -->
 
 ---
 
-## ✨ Features
+## Features
 - Load Excel workbooks and sheets
 - Read and process transaction data
 - Automate updates to Excel files
@@ -34,7 +34,7 @@ This project demonstrates how to read, process, and manipulate Excel files using
 
 ---
 
-## 🗂️ Project structure
+## Project structure
 - │ 📂 excel-automation/
 - ├── app.py
 - ├── tests/
@@ -46,13 +46,13 @@ This project demonstrates how to read, process, and manipulate Excel files using
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 - Python 3.10+
 - Dependencies listed in [requirements.txt](requirements.txt)
 
 ---
 
-## 💾 Installation
+## Installation
 Clone the repo and install dependencies:
 
 ```bash
@@ -89,30 +89,30 @@ The script automatically categorizes transactions and can be extended to add mor
 
 ---
 
-## 🧪 Running tests
+## Running tests
 ```bash
 pytest
 ```
-<!-- ## 📦 Deployment -->
-<!-- ## ⚠️ Notes -->
-<!-- ## 🛣️ Road Map -->
-<!-- ## ❓ FAQ -->
+<!-- ## Deployment -->
+<!-- ## Notes -->
+<!-- ## Road Map -->
+<!-- ## FAQ -->
 
 ---
 
-## 🫱🏻‍🫲🏼 Contributing
+## Contributing
 Pull requests are welcome.
 For major changes, please open an issue first to discuss what you’d like to change.
-<!-- ## 📝 Changelog -->
+<!-- ## Changelog -->
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE)
 
 ---
 
-## 👨🏻‍💻 Author / 🙏🏻 Acknowledgments / 📩 Contact
+## Author / Acknowledgments / Contact
 **Author:** 
 Andrei Iliescu
 
@@ -132,6 +132,6 @@ Andrei Iliescu
 
 ---
 
-## 💰 If you want to support me
+## If you want to support me
 [![PayPal](https://img.shields.io/badge/PayPal-xAndreiix-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xAndreiix)<br>
 [![Revolut](https://img.shields.io/badge/Revolut-xAndreiix-001B2E?style=for-the-badge&logoColor=white)](https://revolut.me/xandreiix)
