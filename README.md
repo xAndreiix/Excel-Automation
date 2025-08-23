@@ -86,11 +86,11 @@ Date	        Description	   Amount	Category
 
 The script automatically categorizes transactions and can be extended to add more rules, generate reports, or export summaries.
 ```
-<!-- ## 🔧 Configuration -->
+<!-- ## Configuration -->
 
 ---
 
-## Running tests 🧪
+## Running tests
 ```bash
 pytest
 ```
