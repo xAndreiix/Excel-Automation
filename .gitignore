@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE configs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel or data files (remove these if you actually want them in repo)
+*.xlsx
+*.xlsm
+*.xlsb
+*.xls
+
+# Logs
+*.log
+
+# Backup
+*.bak
