@@ -5,9 +5,9 @@ This project demonstrates how to read, process, and manipulate Excel files using
 
 ---
 
-## Project structure
+## 📂 Project structure
 
-- │excel-automation/
+- │📁 excel-automation/
 - ├── app.py
 - ├── tests/
 - │   └── test_app.py
@@ -18,7 +18,7 @@ This project demonstrates how to read, process, and manipulate Excel files using
 
 ---
 
-## Features
+## 🔧 Features
 - Load Excel workbooks and sheets
 - Read and process transaction data
 - Automate updates to Excel files
@@ -26,13 +26,13 @@ This project demonstrates how to read, process, and manipulate Excel files using
 
 ---
 
-## Requirements
+## 📄 Requirements
 - Python 3.10+
 - Dependencies listed in [requirements.txt](requirements.txt)
 
 ---
 
-## Installation
+## ⬇️ Installation
 Clone the repo and install dependencies:
 
 ```bash
@@ -43,14 +43,14 @@ pip install -r requirements.txt
 
 ---
 
-## Running tests
+## 🧪 Running tests
 ```bash
 pytest
 ```
 
 ---
 
-## Usage
+## ✅ Usage
 
 Place your Excel files in the project directory (e.g. transactions.xlsx) and run:
 
@@ -77,7 +77,7 @@ The script automatically categorizes transactions and can be extended to add mor
 
 ---
 
-## Project Structure
+## 🗂️ Project Structure
 
 ```bash
 app.py              # Main automation script
@@ -87,13 +87,13 @@ requirements.txt    # Python dependencies
 
 ---
 
-## Contributing
+## 🫱🏻‍🫲🏼 Contributing
 
 Pull requests are welcome.
 For major changes, please open an issue first to discuss what you’d like to change.
 
 ---
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE)
