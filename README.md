@@ -36,7 +36,7 @@ This project demonstrates how to read, process, and manipulate Excel files using
 ---
 
 ## Project structure
-- │ 📂 excel-automation/
+- │ 📂 Excel Automation/
 - ├── app.py
 - ├── tests/
 - │   └── test_app.py
