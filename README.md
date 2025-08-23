@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Table of Contents
-- 🏷️ [Introduction](#introduction)
+- 🏷️ [Introduction](#🏷️-introduction)
 - ✨ [Features](#features)
 - 🗂️ [Project structure](#project-structure)
 - ⚙️ [Requirements](#requirements)
