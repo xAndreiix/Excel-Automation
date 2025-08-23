@@ -1,3 +1,5 @@
 openpyxl>=3.0.0
 
 et-xmlfile>=1.0.0
+
+pytest>=7.0.0

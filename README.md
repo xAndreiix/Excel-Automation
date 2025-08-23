@@ -5,6 +5,19 @@ This project demonstrates how to read, process, and manipulate Excel files using
 
 ---
 
+## Project structure
+
+- │excel-automation/
+- ├── app.py
+- ├── tests/
+- │   └── test_app.py
+- ├── requirements.txt
+- ├── README.md
+- ├── LICENSE
+- └── .gitignore
+
+---
+
 ## Features
 - Load Excel workbooks and sheets
 - Read and process transaction data
@@ -26,7 +39,14 @@ Clone the repo and install dependencies:
 git clone https://github.com/xAndreiix/Excel-Automation.git
 cd excel-automation
 pip install -r requirements.txt
-````
+```
+
+---
+
+## Running tests
+```bash
+pytest
+```
 
 ---
 
