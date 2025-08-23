@@ -9,7 +9,7 @@
 - ⚙️ [Requirements](Requirements)
 - 💾 [Installation](Installation)
 - ▶️ [Usage](Usage)
-- 🧪 [Running tests](Runningtests)
+- 🧪 [Running tests](#Runningtests)
 - 🫱🏻‍🫲🏼‍ [Contributing](Contributing)
 - 📜 [License](License)
 - [👨🏻‍💻 Author / 🙏🏻 Acknowledgments / 📩 Contact](Author/Acknowledgments/Contact)
