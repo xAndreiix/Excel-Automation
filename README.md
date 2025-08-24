@@ -6,11 +6,11 @@
 - 🏷️ [Introduction](#introduction)
 - ✨ [Features](#features)
 - 🛠️ [Technologies](#technologies)
-- 🗂️ [Project structure](#project-structure)
+- 🗂️ [Project Structure](#project-structure)
 - ⚙️ [Requirements](#requirements)
 - 💾 [Installation](#installation)
 - ▶️ [Usage](#usage)
-- 🧪 [Running tests](#running-tests)
+- 🧪 [Running Tests](#running-tests)
 - 🫱🏻‍🫲🏼 [Contributing](#contributing)
 - 📜 [License](#license)
 - 👨🏻‍💻 [Author](#author--acknowledgments--contact) / 🙏🏻 [Acknowledgments](#author--acknowledgments--contact) / 📩 [Contact](#author--acknowledgments--contact)
@@ -42,7 +42,7 @@ This project demonstrates how to read, process, and manipulate Excel files using
 
 ---
 
-## Project structure
+## Project Structure
 - │ 📁 Excel Automation/
 - ├── app.py
 - ├── tests/
@@ -62,7 +62,6 @@ This project demonstrates how to read, process, and manipulate Excel files using
 
 ## Installation
 Clone the repo and install dependencies:
-
 ```bash
 git clone https://github.com/xAndreiix/Excel-Automation.git
 cd excel-automation
@@ -97,7 +96,7 @@ The script automatically categorizes transactions and can be extended to add mor
 
 ---
 
-## Running tests
+## Running Tests
 ```bash
 pytest
 ```
