@@ -64,7 +64,11 @@ This project demonstrates how to read, process, and manipulate Excel files using
 Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/xAndreiix/Excel_Automation.git
+```
+```bash
 cd excel_automation
+```
+```bash
 pip install -r requirements.txt
 ```
 
@@ -74,6 +78,7 @@ pip install -r requirements.txt
 Place your Excel files in the project directory (e.g. transactions.xlsx) and run:
 ```bash 
 python app.py
+```
 
 The script will read the input Excel file, process the data, and update the workbook or create a new one depending on your use case.
 
@@ -91,7 +96,6 @@ Date	        Description	   Amount	Category
 2025-01-15	Software License   300.00	Expense
 
 The script automatically categorizes transactions and can be extended to add more rules, generate reports, or export summaries.
-```
 <!-- ## Configuration -->
 
 ---
