@@ -64,7 +64,7 @@ This project demonstrates how to read, process, and manipulate Excel files using
 Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/xAndreiix/Excel_Automation.git
-cd excel-automation
+cd excel_automation
 pip install -r requirements.txt
 ```
 
