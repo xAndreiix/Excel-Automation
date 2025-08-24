@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Table of Contents
-- 🏷️ [Introduction](#introduction)
+- 🏷️ [Project Description](#project-description)
 - ✨ [Features](#features)
 - 🛠️ [Technologies](#technologies)
 - 🗂️ [Project Structure](#project-structure)
@@ -18,7 +18,7 @@
 
 ---
 
-## Introduction
+## Project Description
 Automated Excel processing script written in Python.  
 This project demonstrates how to read, process, and manipulate Excel files using Python libraries such as `openpyxl`.
 <!-- ## Badges -->
